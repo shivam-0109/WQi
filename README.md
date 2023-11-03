@@ -1,1 +1,1 @@
-# WQi
+# water-quality
